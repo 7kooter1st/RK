@@ -1,0 +1,7 @@
+C:\Users\max-p\source\repos\RK1\RK1\obj\Debug\RK1.csproj.AssemblyReference.cache
+C:\Users\max-p\source\repos\RK1\RK1\obj\Debug\RK1.csproj.CoreCompileInputs.cache
+C:\Users\max-p\source\repos\RK1\RK1\bin\Debug\RK1.exe.config
+C:\Users\max-p\source\repos\RK1\RK1\bin\Debug\RK1.exe
+C:\Users\max-p\source\repos\RK1\RK1\bin\Debug\RK1.pdb
+C:\Users\max-p\source\repos\RK1\RK1\obj\Debug\RK1.exe
+C:\Users\max-p\source\repos\RK1\RK1\obj\Debug\RK1.pdb
